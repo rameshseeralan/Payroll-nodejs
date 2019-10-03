@@ -11,6 +11,8 @@
 - Please install the node packages
 `npm install`
 
+This will give you a text file for the calculated payroll.
+
 ## How it works?
 ### To get current year
 `node payroll.js --current`
